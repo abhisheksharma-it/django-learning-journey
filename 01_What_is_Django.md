@@ -1,4 +1,4 @@
-## What is Django?
+# What is Django?
 
 Django is a high-level Python web framework used to build secure, fast, and scalable web applications.
 
